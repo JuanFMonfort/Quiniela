@@ -1,9 +1,8 @@
 # Quiniela
 Este es el codigo realizado en Java.
-```
-  java
-```
- 
+
+```java
+
 public class Posibilidades {
 
 	public static void main(String[] args) {
@@ -83,3 +82,5 @@ public class Posibilidades {
 	}//fin main
 
 }//fin clase
+
+```
